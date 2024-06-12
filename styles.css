@@ -1,0 +1,5 @@
+.score-link {
+  color: rgb(255, 145, 0);
+  text-decoration: none;
+  transition: color 0.3s ease;
+}

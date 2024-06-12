@@ -1,0 +1,24 @@
+{
+  "name": "5ez2pg--run",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
+    "@mui/material": "5.15.20",
+    "@emotion/react": "11.11.4",
+    "@emotion/styled": "11.11.5",
+    "@types/react": "18.3.3",
+    "@types/react-dom": "18.3.0",
+    "typescript": "5.4.5"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "react-scripts": "latest"
+  }
+}
